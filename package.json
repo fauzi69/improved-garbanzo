@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@indahsybla/menghitung-data-siswa": "^1.0.0",
+    "@nizarambr/teanxinx": "^1.0.0",
+    "acak-nama-murid": "^1.0.0",
+    "kalkulator-kehidupan": "^1.0.1",
+    "sistem-absensi-murid": "^1.0.0"
+  }
+}
